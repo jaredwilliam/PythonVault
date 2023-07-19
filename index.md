@@ -7,7 +7,7 @@ title: My Home Page
 
 This is a paragraph introducing my website.
 
-This website is about saying Python tups and tricks that I have come across. 
+This website is about saying Python tips and tricks that I have come across. 
 
 ## About Me
 
